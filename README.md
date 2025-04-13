@@ -6,3 +6,4 @@ DOMAIN:FRONTEND WEB DEVELOPMENT
 MENTOR:NEELA SANTHOSH KUMAR
 A user-friendly digital interface designed for online education, allowing students to access courses, watch lectures, take quizzes, track progress, and interact with instructors. It typically includes dashboards, course catalogs, video players, discussion forums, and progress tracking features—all optimized for an engaging and efficient learning experience.
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/822ad933-0ea9-4a25-b444-45430e086314)
